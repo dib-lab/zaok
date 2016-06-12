@@ -49,6 +49,9 @@ help:
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 	@echo "  dummy      to check syntax errors of document sources"
 
+gh-pages: html
+	cp -r $(BUILDDIR)/html/* gh-pages/html
+
 .PHONY: clean
 clean:
 	rm -rf $(BUILDDIR)/*

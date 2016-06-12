@@ -1,2 +1,4 @@
+nbsphinx
+ipykernel
 git+https://github.com/dib-lab/screed.git@fix/reverse_complement
 git+https://github.com/dib-lab/khmer.git@zaok
