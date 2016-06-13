@@ -16,6 +16,8 @@ Bruijn graphs and assembling directly off of the graph.
 What is unique, special, or otherwise different about khmer?
 ------------------------------------------------------------
 
+None of these are unique, but we like them.
+
 * The library approach is sadly somewhat rare in bioinformatics.
 
 * We have a Python API that we "dogfood" - we use it ourselves for everything.
@@ -26,3 +28,5 @@ What is unique, special, or otherwise different about khmer?
 * Our focus on online and streaming algorithms is rather rare.
 
 * Our explicit focus on low memory is also somewhat rare.
+
+* Our overall approach (prefiltering and diagnostics) is rather different.
