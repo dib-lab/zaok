@@ -4,3 +4,6 @@ zaok_env
 __cache__
 .ipynb_checkpoints
 _build
+*.bt2
+*.kh
+*.kh.info
