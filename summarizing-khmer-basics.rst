@@ -16,6 +16,8 @@ Bruijn graphs and assembling directly off of the graph.
 What is unique, special, or otherwise different about khmer?
 ------------------------------------------------------------
 
+* The library approach is sadly somewhat rare in bioinformatics.
+
 * We have a Python API that we "dogfood" - we use it ourselves for everything.
 
 * We are concerned about sustainability of software development, so we test
