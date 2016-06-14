@@ -3,6 +3,7 @@ Future thoughts
 ===============
 
 On the scientific side, khmer's future will be driven by research needs.
+(I think it's clear more publications and theory are needed, though.)
 
 On the software engineering/community/maintenance side:
 
