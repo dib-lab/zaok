@@ -17,13 +17,14 @@ Contents:
    exploring-graphs
    summarizing-khmer-basics
 
-   actually-using-khmer.rst
-   off-label-and-emerging-use-cases.rst
+   actually-using-khmer
+   off-label-and-emerging-use-cases
    
-   considerations.rst
-   infrastructure.rst
+   considerations
+   infrastructure
+   future-thoughts
 
-   blog-posts.rst
+   blog-posts
 
 Indices and tables
 ==================
