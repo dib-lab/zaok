@@ -18,9 +18,10 @@ Contents:
    summarizing-khmer-basics
 
    actually-using-khmer.rst
+   off-label-and-emerging-use-cases.rst
+   
    considerations.rst
    infrastructure.rst
-   off-label-and-emerging-use-cases.rst
 
    blog-posts.rst
 
