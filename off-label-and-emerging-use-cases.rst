@@ -98,6 +98,12 @@ spacegraphcats, domination hierarchies, and the catlas
 
 (presentation)
 
+Thoughts:
+
+* Structural variation analysis
+* Species binning
+* RNAseq exploration and downsampling
+
 Future directions
 =================
 
@@ -105,6 +111,4 @@ In no particular order,
 
 * Streaming assembly
 * Graph indexing of short- (and long?)-read data sets
-* Structural variation analysis
 * Graph searching more generally
-* RNAseq exploration and downsampling
