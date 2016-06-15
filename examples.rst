@@ -39,3 +39,12 @@ errors::
    sandbox/extract-unassembled-reads.py data/mixed-species.fa.gz data/mixed-reads.fa.gz
    # output: 568 left out of assembly, of 5508 reads
 
+Characterizing the unassembled reads
+------------------------------------
+
+Next steps could include:
+
+* running extract-compact-dbg.py on it & visualizing it;
+* partitioning & examining the partitions;
+* looking at the abundance distribution of the whole thing, or each
+  individual partition;
